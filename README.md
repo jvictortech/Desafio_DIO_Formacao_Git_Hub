@@ -121,7 +121,3 @@ Sugestões de prompts para reproduzir a atividade e compreender as soluções:
 ## Validação
 
 Os seis programas foram executados em Python 3.12 com entradas de exemplo e casos como zero, números negativos, decimais com vírgula, divisão por zero, entrada não numérica e palavras com maiúsculas. Os resultados esperados foram conferidos.
-
-## Publicação e entrega
-
-O arquivo [GUIA_PUBLICACAO.md](GUIA_PUBLICACAO.md) explica como criar o repositório, enviar os arquivos e obter o link para entregar no curso.
